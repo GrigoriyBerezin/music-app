@@ -1,4 +1,4 @@
-
+import photo1 from "../images/c1.jpg"
 
 export const navBar = [
     {
@@ -27,7 +27,7 @@ export const navBar = [
       id: 1,
       name: "New Album from Nouvelle",
       tag: "Nouvelle",
-      cover: import('../images/c1.jpg'),
+      cover: photo1,
     },
     {
       id: 2,
