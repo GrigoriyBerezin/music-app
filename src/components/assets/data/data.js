@@ -1,4 +1,6 @@
 import photo1 from "../images/c1.jpg"
+import photo2 from "../images/c2.jpg"
+import photo3 from "../images/c3.jpg"
 
 export const navBar = [
     {
@@ -33,13 +35,13 @@ export const navBar = [
       id: 2,
       name: "Bind Me",
       tag: "Fifty",
-      cover: "../images/c2.jpg",
+      cover: photo2,
     },
     {
       id: 3,
       name: "New Track from Pablo Nouvelle",
       tag: "Pablo Nouvelle",
-      cover: "../images/c3.jpg",
+      cover: photo3,
     },
   ]
   export const hero2 = [
