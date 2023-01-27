@@ -6,7 +6,7 @@ function App() {
     <Router>
       <Routes>
         <Route
-          path='/'
+          path='/music-app'
           element={
             <Layout>
               <Home/>

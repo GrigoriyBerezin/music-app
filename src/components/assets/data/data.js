@@ -3,7 +3,7 @@ export const navBar = [
     {
       id: 1,
       name: "Discover",
-      path: "/",
+      path: "/music-app",
     },
     {
       id: 2,
