@@ -1,4 +1,5 @@
 
+
 export const navBar = [
     {
       id: 1,
@@ -26,7 +27,7 @@ export const navBar = [
       id: 1,
       name: "New Album from Nouvelle",
       tag: "Nouvelle",
-      cover: "../images/c1.jpg",
+      cover: import('../images/c1.jpg'),
     },
     {
       id: 2,
